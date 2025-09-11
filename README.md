@@ -1,4 +1,6 @@
 # 📘 Awesome Safe Reinforcement Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Work In Progress. 
+This repo is WIP, expect more changes etc. 
 
 A curated list of resources on **Safe Reinforcement Learning (Safe RL)** – including papers, code, benchmarks, tutorials, and articles.  
 Safe RL focuses on ensuring safety during training and deployment, by balancing reward optimization with constraints like risk, safety, or robustness.  
@@ -24,6 +26,81 @@ Safe RL is critical for deploying reinforcement learning in the real world – i
 This list compiles **research papers, implementations, and learning resources** to accelerate work in the field.  
 
 ---
+## Top Must Read Papers
+
+
+## ðŸ›ï¸ Foundational Works
+1. **Altman, E. (1999). *Constrained Markov Decision Processes*.**  
+   Classic theoretical foundation of constrained decision-making.  
+
+2. **GarcÃ­a, J., & FernÃ¡ndez, F. (2015). *A Comprehensive Survey on Safe RL*.**  
+   Early survey organizing approaches to safe exploration and constraints.  
+
+3. **Moldovan, T., & Abbeel, P. (2012). *Safe Exploration in MDPs*.**  
+   Introduced methods to explore safely while avoiding catastrophic failures.  
+
+4. **Kakade, S. & Langford, J. (2002). *Approximately Optimal Approximate RL*.**  
+   Introduces policy gradient methods with performance guarantees (basis for later safe RL).  
+
+---
+
+## âš™ï¸ Algorithmic Advances
+5. **Achiam, J. et al. (2017). *Constrained Policy Optimization (CPO)*.**  
+   First practical algorithm solving Constrained MDPs with guarantees.  
+
+6. **Chow, Y. et al. (2018). *Lyapunov-based Safe RL*.**  
+   Introduces Lyapunov functions for constraint satisfaction.  
+
+7. **Dalal, G. et al. (2018). *Safe Exploration in Continuous Action Spaces*.**  
+   Proposes safety layer to correct unsafe actions in continuous domains.  
+
+8. **Bharadhwaj, H. et al. (2020). *Conservative Safety Critics for Exploration*.**  
+   Improves exploration safety via conservative value estimates.  
+
+9. **Thananjeyan, B. et al. (2021). *Recovery RL*.**  
+   Framework for learning recovery policies that ensure constraint satisfaction.  
+
+10. **Zhang, R. et al. (2021). *Safety Constraints in Deep RL via Trust Regions*.**  
+    Trust region approach with explicit safety guarantees.  
+
+---
+
+## ðŸ§ª Benchmarks & Infrastructure
+11. **Ray, A. et al. (2019). *Safety Gym (OpenAI)*.**  
+    First widely-used benchmark for safe exploration.  
+
+12. **Ji, J. et al. (2023). *Safety Gymnasium*.**  
+    Modern, unified benchmark suite for safe RL, successor to Safety Gym.  
+
+13. **Stooke, A. et al. (2020). *Implementation Matters in Deep RL*.**  
+    Shows reproducibility issues, crucial for safe RL baselines.  
+
+14. **Stooke, A. et al. (2021). *Safe Control Gym*.**  
+    Robotics-focused safe control benchmarks.  
+
+15. **Stooke, A. et al. (2023). *OmniSafe*.**  
+    Infrastructure/framework implementing many Safe RL algorithms.  
+
+---
+
+## ðŸ¥ Applications
+16. **Thomas, P. et al. (2015). *High Confidence Off-Policy Evaluation*.**  
+    Importance sampling with safety guarantees â€“ relevant in healthcare/finance.  
+
+17. **Huang, S. et al. (2018). *Learning Safe Policies for Autonomous Driving*.**  
+    Demonstrates Safe RL in self-driving simulation.  
+
+18. **Turchetta, M. et al. (2020). *Safe Exploration for Interactive Robotics*.**  
+    Human-robot interaction with safety considerations.  
+
+---
+
+## ðŸ“Š Surveys & Overviews
+19. **GarcÃ­a, J., & FernÃ¡ndez, F. (2015). *Safe RL Survey* (re-listed).**  
+    Still a must-read reference for categorization of methods.  
+
+20. **Pecka, M., & Svoboda, T. (2014). *Safe Exploration Techniques*.**  
+    Survey focusing on safe exploration approaches.   
 
 ## 📄 Papers
 ### Foundational
