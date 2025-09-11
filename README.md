@@ -79,8 +79,8 @@ This list compiles **research papers, implementations, and learning resources** 
 ---
 
 ## 🤝 Contributing
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.  
-We welcome:
+Contributions are welcome! You are welcome to submit a pull request for the suggestions for new papers, codes or other useful links.  
+I welcome:
 - New papers with short summaries  
 - Benchmarks and environments  
 - Blog posts and tutorials  
