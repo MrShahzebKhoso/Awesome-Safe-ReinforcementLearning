@@ -29,7 +29,7 @@ This list compiles **research papers, implementations, and learning resources** 
 ## Top Must Read Papers
 
 
-## ðŸ›ï¸ Foundational Works
+## Foundational Works
 1. **Altman, E. (1999). *Constrained Markov Decision Processes*.**  
    Classic theoretical foundation of constrained decision-making.  
 
@@ -44,7 +44,7 @@ This list compiles **research papers, implementations, and learning resources** 
 
 ---
 
-## âš™ï¸ Algorithmic Advances
+## Algorithmic Advances
 5. **Achiam, J. et al. (2017). *Constrained Policy Optimization (CPO)*.**  
    First practical algorithm solving Constrained MDPs with guarantees.  
 
@@ -65,7 +65,7 @@ This list compiles **research papers, implementations, and learning resources** 
 
 ---
 
-## ðŸ§ª Benchmarks & Infrastructure
+## Benchmarks & Infrastructure
 11. **Ray, A. et al. (2019). *Safety Gym (OpenAI)*.**  
     First widely-used benchmark for safe exploration.  
 
@@ -83,7 +83,7 @@ This list compiles **research papers, implementations, and learning resources** 
 
 ---
 
-## ðŸ¥ Applications
+## Applications
 16. **Thomas, P. et al. (2015). *High Confidence Off-Policy Evaluation*.**  
     Importance sampling with safety guarantees â€“ relevant in healthcare/finance.  
 
@@ -95,7 +95,7 @@ This list compiles **research papers, implementations, and learning resources** 
 
 ---
 
-## ðŸ“Š Surveys & Overviews
+## Surveys & Overviews
 19. **GarcÃ­a, J., & FernÃ¡ndez, F. (2015). *Safe RL Survey* (re-listed).**  
     Still a must-read reference for categorization of methods.  
 
