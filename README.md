@@ -131,7 +131,11 @@ This list compiles **research papers, implementations, and learning resources** 
 - [Safety Gymnasium](https://github.com/PKU-Alignment/safety-gymnasium) – successor to OpenAI’s Safety Gym.  
 - [Safe Control Gym](https://github.com/utiasDSL/safe-control-gym) – safe control benchmarks in robotics.  
 - [Safe Policy Optimization Benchmark](https://github.com/PKU-Alignment/safe-policy-optimization) – NeurIPS 2023 benchmark suite.  
-- [OpenAI Safety Gym](https://github.com/openai/safety-gym) – early environment for safe exploration.  
+- [OpenAI Safety Gym](https://github.com/openai/safety-gym) – early environment for safe exploration.
+- [Safe MAIG](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym) – Hand RL environments for the NVIDIA Isaac Gym.
+- [Safe Multo-Agent Mujoco](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco) – safety-aware modification of MAMuJoCo.
+- [AI-Safety Gridworlds](https://github.com/google-deepmind/ai-safety-gridworlds) – Pycolab suite for testing safety in reinforcement learning agents.
+- 
 
 ---
 
