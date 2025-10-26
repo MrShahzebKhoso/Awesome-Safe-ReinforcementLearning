@@ -1,4 +1,8 @@
 # 📘 Awesome Safe Reinforcement Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.png" alt="Safe Reinforcement Learning" width="80%">
+</p>
+
 ## Work In Progress. 
 This repo is WIP, expect more changes etc. 
 
