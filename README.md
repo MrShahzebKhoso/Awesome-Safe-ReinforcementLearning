@@ -125,7 +125,7 @@ This list compiles **research papers, implementations, and learning resources** 
 - [OmniSafe](https://github.com/PKU-Alignment/omnisafe) – PyTorch-based Safe RL framework with multiple algorithms.  
 - [FSRL](https://github.com/PKU-Alignment/fsrl) – Safe RL in Tianshou, lightweight and practical.  
 - [Safe-RL-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) – Implementations of Safe RL algorithms.
-
+- [https://github.com/openai/safety-gym](Openai SafetyGym) 
 - [Safety Control Gym Implementations](https://github.com/utiasDSL/safe-control-gym/tree/main) 
 - [Safety Starter Agents](https://github.com/openai/safety-starter-agents) – OpenAI baseline implementations.  
 
@@ -137,7 +137,7 @@ This list compiles **research papers, implementations, and learning resources** 
 - [Safe Policy Optimization Benchmark](https://github.com/PKU-Alignment/safe-policy-optimization) – NeurIPS 2023 benchmark suite.  
 - [OpenAI Safety Gym](https://github.com/openai/safety-gym) – early environment for safe exploration.
 - [Safe MAIG](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym) – Hand RL environments for the NVIDIA Isaac Gym.
-- [Safe Multo-Agent Mujoco](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco) – safety-aware modification of MAMuJoCo.
+- [Safe Multi-Agent Mujoco](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco) – safety-aware modification of MAMuJoCo.
 - [AI-Safety Gridworlds](https://github.com/google-deepmind/ai-safety-gridworlds) – Pycolab suite for testing safety in reinforcement learning agents.
 - 
 
