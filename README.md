@@ -128,7 +128,7 @@ This list compiles **research papers, implementations, and learning resources** 
 - [https://github.com/openai/safety-gym](Openai SafetyGym) 
 - [Safety Control Gym Implementations](https://github.com/utiasDSL/safe-control-gym/tree/main) 
 - [Safety Starter Agents](https://github.com/openai/safety-starter-agents) – OpenAI baseline implementations.  
-
+- https://github.com/jachiam/cpo.git](CPO) 
 ---
 
 ## 🧪 Benchmarks & Environments
