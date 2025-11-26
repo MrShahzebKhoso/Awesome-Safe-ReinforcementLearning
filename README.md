@@ -123,13 +123,13 @@ This list compiles **research papers, implementations, and learning resources** 
 
 ## 💻 Code & Frameworks
 - [OmniSafe](https://github.com/PKU-Alignment/omnisafe) – PyTorch-based Safe RL framework with multiple algorithms.  
--[https://github.com/PKU-Alignment/Safe-Policy-Optimization](Safe Policy Optimization) 
+-[Saftey PO](https://github.com/PKU-Alignment/Safe-Policy-Optimization) - (Safe Policy Optimization) 
 - [FSRL](https://github.com/PKU-Alignment/fsrl) – Safe RL in Tianshou, lightweight and practical.  
 - [Safe-RL-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) – Implementations of Safe RL algorithms.
-- [https://github.com/openai/safety-gym](Openai SafetyGym) 
+- [Safety Gym](https://github.com/openai/safety-gym) - (Openai SafetyGym) 
 - [Safety Control Gym Implementations](https://github.com/utiasDSL/safe-control-gym/tree/main) 
 - [Safety Starter Agents](https://github.com/openai/safety-starter-agents) – OpenAI baseline implementations.  
-- https://github.com/jachiam/cpo.git](CPO) 
+- [CPO](https://github.com/jachiam/cpo.git) - (CPO) 
 ---
 
 ## 🧪 Benchmarks & Environments
